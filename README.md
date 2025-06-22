@@ -2,7 +2,7 @@
 This project is a full-stack application that leverages an AI agent to provide intelligent, conversational responses. The backend is built with Python and FastAPI, the AI agent uses the LangChain framework to connect to Google's Gemini models, and the frontend is a responsive chat interface built with React. The entire application is deployed on the Google Cloud Platform.
 
 ✅ Live Application
-Frontend (Firebase Hosting): https://ai-automation-project-463709.web.app
+Frontend (Firebase Hosting): https://ai-automation-project-463709.web.app/
 
 Backend API (Cloud Run): https://ai-automation-backend-685273303639.europe-west1.run.app
 
