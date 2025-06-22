@@ -3,6 +3,8 @@ This project is a full-stack application that leverages an AI agent to provide i
 
 Demo
 
+![app-demo gif](https://github.com/user-attachments/assets/74184478-c666-41c5-a077-b378ee65160d)
+
 
 Key Features
 Conversational AI: Engage in natural, human-like conversations powered by Google's Gemini model.
